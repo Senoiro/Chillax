@@ -1793,7 +1793,7 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
   overflow: hidden;
 }
 .theme-dark .sidebar_e031be .container__7e23c:after {
-  content: 'this big gap is for the floating user controls, so sry if it looks ugly';
+  content: '';
   font-size: 13px;
   color: rgba(255, 255, 255, 0.03);
   text-align: center;
